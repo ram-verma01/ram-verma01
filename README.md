@@ -2,7 +2,7 @@
 
 ## 💻 Java Full Stack Developer
 
-I'm a passionate **Java Full Stack Developer** with a strong foundation in **Core Java, Spring Framework, Spring Boot, Spring MVC, REST APIs, JDBC, MySQL, Git, and Maven**. I enjoy building real-world applications, solving problems through code, and continuously learning modern Java technologies.
+I'm a passionate **Java Full Stack Developer** with a strong foundation in **Java, Spring Framework, Spring Boot, Spring MVC, REST APIs, JDBC, MySQL, Git, and Maven**. I enjoy building real-world applications, solving problems through code, and continuously learning modern Java technologies.
 
 🎯 **Career Objective:** Seeking an opportunity as a **Java Developer**, **Backend Developer**, or **Java Full Stack Developer**, where I can contribute to meaningful projects while continuously enhancing my technical expertise.
 
@@ -10,33 +10,40 @@ I'm a passionate **Java Full Stack Developer** with a strong foundation in **Cor
 
 ## 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
+### ☕ Programming Languages
 
-* ☕ Java
-* 🌐 HTML5
-* 🎨 CSS3
-* ⚡ JavaScript
+* Java
+* JavaScript
 
-### ⚙️ Backend Technologies
+### 🎨 Frontend
 
-* 🌱 Spring Framework
-* 🚀 Spring Boot
-* 🌐 Spring MVC
-* 🔗 REST APIs
-* 💾 JDBC
+* HTML5
+* CSS3
 
-### 🗄️ Databases
+### ⚙️ Backend
+
+* Spring Framework
+* Spring Boot
+* Spring MVC
+* JDBC
+* REST APIs
+
+### 🗄️ Database
 
 * MySQL
 
-### 🛠️ Tools & Technologies
+### 🛠️ Build Tools
 
 * Maven
+
+### 🔧 Tools
+
 * Git & GitHub
 * Eclipse IDE
 * Visual Studio Code
 * MySQL Workbench
 * Postman
+
 
 ---
 
