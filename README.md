@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Java Full Stack Developer** with a strong foundation in building scalable backend systems and enterprise applications. I specialize in the **Spring ecosystem** and love crafting clean, maintainable code.
+I'm a passionate **Java Full Stack Developer** with a strong foundation in building scalable backend systems and enterprise applications. I specialize in the **Spring ecosystem** and love crafting robust, maintainable code.
 
 Currently focused on:
 - 🚀 Building robust REST APIs with Spring Boot
@@ -159,9 +159,9 @@ Online voting platform with secure user authentication and vote management
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ram-verma01&show_icons=true&theme=radical&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ram-verma01&show_icons=true&theme=radical&hide_border=true&cache_seconds=3600)](https://github.com/ram-verma01)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-verma01&layout=compact&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-verma01&layout=compact&theme=radical&hide_border=true&cache_seconds=3600)](https://github.com/ram-verma01)
 
 </div>
 
