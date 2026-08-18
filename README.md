@@ -4,6 +4,10 @@
 
 ### 💻 Java Full Stack Developer | Spring Ecosystem Enthusiast | Backend Engineer
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&background=00000000&lines=Hi+there!;I'm+Ram+Pravesh+Verma;Java+Full+Stack+Developer" alt="typing" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-verma-29b35027b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram-verma01)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -14,7 +18,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Java Full Stack Developer** with a strong foundation in building scalable backend systems and enterprise applications. I specialize in the **Spring ecosystem** and love crafting robust, maintainable code.
+I'm a passionate **Java Full Stack Developer** with a strong foundation in building scalable backend systems and enterprise applications. I specialize in the **Spring ecosystem** and love crafting[...] 
 
 Currently focused on:
 - 🚀 Building robust REST APIs with Spring Boot
