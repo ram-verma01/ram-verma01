@@ -2,10 +2,14 @@
 
 <div align="center">
 
-### 💻 Java Full Stack Developer | Spring Ecosystem Enthusiast | Backend Engineer
+### 💻 Java Full-Stack Developer | Spring Ecosystem Enthusiast | Backend Engineer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&background=00000000&lines=Hi+there!;I'm+Ram+Pravesh+Verma;Java+Full+Stack+Developer" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&background=00000000&lines=Hi+there!;I'm+Ram+Pravesh+Verma;Java+Full-Stack+Developer;Spring+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="coding animation" width="480" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-verma-29b35027b)
@@ -18,7 +22,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Java Full Stack Developer** with a strong foundation in building scalable backend systems and enterprise applications. I specialize in the **Spring ecosystem** and love crafting[...] 
+I'm a passionate **Java Full-Stack Developer** with a strong foundation in building scalable backend systems and enterprise applications. I specialize in the **Spring ecosystem** and enjoy crafting clean, maintainable code and developer-friendly APIs.
 
 Currently focused on:
 - 🚀 Building robust REST APIs with Spring Boot
@@ -153,7 +157,7 @@ Online voting platform with secure user authentication and vote management
 ## 💼 Looking For
 
 - 🚀 **Backend Developer** roles leveraging Spring Boot
-- 📍 **Java Full Stack Developer** positions
+- 📍 **Java Full-Stack Developer** positions
 - 🤝 **Collaboration** on interesting backend projects
 - 🎓 **Learning opportunities** with experienced teams
 
